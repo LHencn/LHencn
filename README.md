@@ -1,10 +1,16 @@
-### Hi there 👋
+
+
+
+- 👋 Hi, I'm @LHencn
+- 👀 I’m interested in solving artificial intelligence problems by pragmatic and efficient ways. I am also interesting in how to make AI models more robust and explainable.
+- 🌱 I’m currently learning deep learning and reinforcement learning.
+- 📫 How to reach me you can send me email: liuhengchun_1@163.com
 
 <!--
 **LHencn/LHencn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+**Here are some ideas to get you started:
+- 👋 Hi, I'm @LHencn
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
