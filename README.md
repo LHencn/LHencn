@@ -1,7 +1,7 @@
 
 
 
-- 👋 Hi, I'm @LHencn
+- 👋 Hi, I'm @followFates
 - 👀 I am interested in using practical and effective methods to solve artificial intelligence problems. I am also interested in how to make artificial intelligence models more robust and interpretable.
 - 🌱 I’m currently learning deep learning and reinforcement learning.
 - 📫 How to reach me you can send me email: liuhengchun_1@163.com
